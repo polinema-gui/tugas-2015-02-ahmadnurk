@@ -1,0 +1,19 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\bin\Debug\kalkulator1.exe.config
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\bin\Debug\kalkulator1.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\bin\Debug\kalkulator1.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\bin\Debug\kalkulator1.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\obj\Debug\kalkulator1.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\obj\Debug\kalkulator1.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\obj\Debug\kalkulator1.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\obj\Debug\kalkulator1.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\obj\Debug\kalkulator1.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\kalkulator1\obj\Debug\kalkulator1.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\kalkulator1\kalkulator1\bin\Debug\kalkulator1.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.xml
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\kalkulator1\kalkulator1\obj\Debug\kalkulator1.pdb
+E:\kalkulator1\kalkulator1\bin\Debug\kalkulator1.exe.config
+E:\kalkulator1\kalkulator1\obj\Debug\kalkulator1.exe
+E:\kalkulator1\kalkulator1\obj\Debug\kalkulator1.xml
+E:\kalkulator1\kalkulator1\obj\Debug\kalkulator1.pdb
+E:\kalkulator1\kalkulator1\obj\Debug\kalkulator1.vbprojResolveAssemblyReference.cache
